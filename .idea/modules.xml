@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/_3_lab-classes.iml" filepath="$PROJECT_DIR$/.idea/_3_lab-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs-classes-concepts/labs-classes-concepts.iml" filepath="$PROJECT_DIR$/labs-classes-concepts/labs-classes-concepts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs-classes-solution/labs-classes-solution.iml" filepath="$PROJECT_DIR$/labs-classes-solution/labs-classes-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs-classes-todo/labs-classes-todo.iml" filepath="$PROJECT_DIR$/labs-classes-todo/labs-classes-todo.iml" />
+    </modules>
+  </component>
+</project>
